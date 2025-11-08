@@ -63,7 +63,7 @@ screenshots/Screenshot_details_screen_exceeded.png
 screenshots/Screenshot_details_screen_upcoming.png
 ```
 
-И вметнете ги тука:
+
 
 <img src="screenshots/Screenshot_home_screen.png" width="1080" />
 <img src="screenshots/Screenshot_details_screen_exceeded.png" width="1080" />
@@ -78,7 +78,7 @@ screenshots/Screenshot_details_screen_upcoming.png
 video/Screen_recording.webm
 ```
 
-И додадете го во README:
+
 
 [🎬 Гледај демо](video/Screen_recording.webm)
 
